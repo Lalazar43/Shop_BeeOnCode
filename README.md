@@ -13,5 +13,6 @@ This project is a fully functional e-commerce application built with React Hooks
 - Add Product: Functionality for adding new products to the shop is included.
 
 This project is an ongoing endeavor, and feedback is welcome as I continue to enhance its features and functionality!
-
+## Setup Instructions:
+npm install node_modules
 
