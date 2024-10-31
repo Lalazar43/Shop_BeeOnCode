@@ -1,0 +1,58 @@
+{
+    "ring": [
+      { "id": 1, "name": "ring" },
+      { "id": 2, "name": "engagement" },
+      { "id": 3, "name": "rings brass knuckles" },
+      { "id": 4, "name": "cocktail" },
+      { "id": 5, "name": "wedding" }
+    ],
+  
+    "necklace": [
+      { "id": 1, "name": "necklace" },
+      { "id": 2, "name": "pendant" },
+      { "id": 3, "name": "choker" },
+      { "id": 4, "name": "statement" },
+      { "id": 5, "name": "lariat" }
+    ],
+  
+    "earring": [
+      { "id": 1, "name": "earring" },
+      { "id": 2, "name": "stud" },
+      { "id": 3, "name": "hoop" },
+      { "id": 4, "name": "drop" },
+      { "id": 5, "name": "cluster" }
+    ],
+  
+    "chain": [
+      { "id": 1, "name": "chain" },
+      { "id": 2, "name": "cuban" },
+      { "id": 3, "name": "box" },
+      { "id": 4, "name": "snake" },
+      { "id": 5, "name": "figaro" }
+    ],
+  
+    "brooch": [
+      { "id": 1, "name": "brooch" },
+      { "id": 2, "name": "crystal" },
+      { "id": 3, "name": "cameo" },
+      { "id": 4, "name": "floral" },
+      { "id": 5, "name": "animal" }
+    ],
+  
+    "pendants": [
+      { "id": 1, "name": "pendants" },
+      { "id": 2, "name": "locket" },
+      { "id": 3, "name": "cross" },
+      { "id": 4, "name": "heart" },
+      { "id": 5, "name": "teardrop" }
+    ],
+  
+    "bracelets": [
+      { "id": 1, "name": "bracelets" },
+      { "id": 2, "name": "cuff" },
+      { "id": 3, "name": "tennis" },
+      { "id": 4, "name": "charm" },
+      { "id": 5, "name": "beaded" }
+    ]
+  }
+  

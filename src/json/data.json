@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "id": 1,
+      "name": "ring",
+      "image": "https://s3-alpha-sig.figma.com/img/638b/7343/2169bc996fbc132a2803e5ae33b8c623?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JS3EeoPhO3UPSLeYhWS4AH9b~ex2BWEnzDoQPsLLXmkQ1W7Gqb85R1XBRAv3WuJy~UiBaih3Oq~eqGEB7NsqD2j~oWJBfcf2ZwDa0sRlujkE7KJ6LtuLaCgU3k7ZxivXFVOSVLzeCJCFtRn7ljhpQoDGGjtCaJ6sWxZfyN6-lAX53IRqDoKe5eA-6iMvfebwYaWrWT8T5soxKNn2D5h0WlKOtntczizOtXWSO1dwLuAbLYQ5bthfQoBwFWbEa1r4QnkchMNcAtGJ4QE21zOFf3eL8nPWN58D-enZgPAF3Pslg80rwIkjDeK1IdztRrb9HPInwnSxNo9tioOoNnQUJQ__"
+    },
+    {
+      "id": 2,
+      "name": "necklace",
+      "image": "https://s3-alpha-sig.figma.com/img/ce25/ec11/394cd24f19ef3e7f424485f2d72dfe93?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JkI2k0K9QZNJCXqDFufmACgbV70-ZG9Hcx2488mox6vOmG8Hs6Al~COvp3wm4q9hi1op0sId0-W0s2YYqg5GK~aJzlY3474mDpYv2LBuLzOe8mWIXpz2eJHjf0~wPr6PAktTGlUTC~l8bfp-bR5xC9Ypny4iIU~9BupNVZlSmPz~gDhUADeF5nvbudbOLfErqY0nlyi1pQrzCNNzXwEVFyXc83D~o97o~yJbWs7h8ClY0FLVCQCo~XnPdsQBewK3wY8xZIbCe3v4bpTZ02dq6BKfMY1FyJWCrXzkjrVgaKvsZ8rjg8OXc5GCuwQA6oPSobWkOLrgXaLS7CqCN-d3tQ__"
+    },
+    {
+      "id": 3,
+      "name": "earring",
+      "image": "https://s3-alpha-sig.figma.com/img/ba5b/18ab/9218a07042f535716936c769a6b59d4c?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LrmQ2Wat97OVahWsjg-u5ISMQZ4~nzV8hVidvXF9BIpYy~RURnU8JB27N1XBIDNKMw2LoTRzSrEo-ToDKIhnI7nchr~U8cckIG~sw14KJ8gow9S02gaEmkyFYHT6N2ibKHDj22oC-fFKBhUpOJCvtXRZ~EZjTyE7hNse46qoT7oO8ZlrkZxwyLlsSNzCjEVxI~OQbxXXBc9k8e3buaPDBGMsPdddRDpAA4M0rGCL8gdhpusHdx2tItogdt5zurFuT8-wC3Qzhx7bIbFkZE5ERCWWekW8MRGJDeHOQr1AXDo5zp~SqNdNW4AQyhJf3IQFIKMEX12tnJUp94pqohYrGQ__"
+    },
+    {
+      "id": 4,
+      "name": "chain",
+      "image": "https://s3-alpha-sig.figma.com/img/0055/3573/dcd8b156ab4fdf9c6c4d30a36f9c0f5f?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FwIp31WqDD3059jTPsRbrWRx~XYQg8njy1LItTBHolj5jRzHnrntlI3n1I3~hMHd~ZV~UcBQa1s3Id12FoSBSNsFtR-ohZymRZX8oI3bKK29b6g5hfwIwNxZDBFItTmzducPo6EjmVMw-QevxoUSuVXUcbuSyzMl4Yf0Jz-g9p03c~GF7WsrvvROZN7w9tdm9kpjO3kurPxFThi8JUYSlcPCCItjdUNKpQey-lbVeuCIzgVDFDi-7DWXuBWt8~Jtyfxqk-haMytnM~eDlbAeW~sKLBViIh4Ih9dtPLM4sRrLmAQzkupQH1~oBp8vb35WCkiY56XgFmpZMlbDJE9f0w__"
+    },
+    {
+      "id": 5,
+      "name": "brooch",
+      "image": "https://s3-alpha-sig.figma.com/img/b7c7/3d16/f1ec6db0ddb9c0054fd7970ef2b083d9?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PAExxhgOImJcRTSybkpxExrd6oXfiPUIiSZxsoTbXesbFMsqJsTP928cJoUWEVYQ0U05mSFtJ5Vd9BA-yHRI1ONaz6lNd-9YOEazfV0Njd4ckOFPS004iTyACLbSnYh4R0sFQc38oDT5QzuKPR1bZsulWqMAANPy6oyUHeH8urbq9SqppWln6-uT8K6xi3Arlb9GXWqff7q8ZkUDIXVhUV9uuwLoyWX4Lp1AmpohPtWRBajZ7OtvCE5EEg71eYGCnoTCOHg4AxiuMYdLuo9zuEzDrsoICBdFKWRZ~Z-u-cYaICSkeQq1VHzExy5LiVlwEahblHtrG~2amlNaXjTB0Q__"
+    },
+    {
+      "id": 6,
+      "name": "pendants",
+      "image": "https://s3-alpha-sig.figma.com/img/9ecc/98a0/d155b5304d155e853cb07a7fe6f08629?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Vdce~y19vJukyOkV06gV6XsrN2cQMpuYhcbW4X9SdHznVaf0gFRNLIEpi0D~rCmmJlEPswlLfONhl5-ilkfmDaT5eTyoOesDY93rux4GBwwkBwP1qg9uAK8KJoBuiGg-8VZA~0~xtKPJmTpXiVxUoWpY6jT8CNveCiJiQPCHUf-NjOUn6XCxpBwCK9pd6CsEbh0K5CDNSx5-OyD0XMEuXJlwcPTcfqvye8IKeVvGVZAOv5rlqK9Gnq-3iSPecNMqTVxsZbj77L1-irLQpchznfCoUTFi2Yx8G6LHu~HbBuIVtJvNqTLSbCzFaOh2oK2MYqCBdaCHzUmBqYmbn6wTqw__"
+    },
+    {
+      "id": 7,
+      "name": "bracelets",
+      "image": "https://s3-alpha-sig.figma.com/img/630e/6d75/9d45fb9934d3030c919893fe93edc95b?Expires=1730678400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=F~rjWAj3rrPTLAnyn2zL7CM2i-ivHYqxVY0K1Livem-iFZsF4XrTvwTryfXCzcu24qyoh~gP1ES4hD7qsjJjHBr2aWCgjaFhrEW21kp1rLBD4YJc7ZONE4f-AG58h1Vc4dP2e-YVmssoDyx50HvCxithsLdsscAt3JOqu94KaNmXpl5T3QZ5ThmNZuGqCRGW6NeZKBBlc-CbGu8hgmwfcr19K3ukQz6iboqpbLbfR0u7nerzlaZBxCFmUBiXsL5~RBueDHOt5V45AmEdxfNl6gtTpBA2WhISEI-3uwTiHkXFvVLFD8~1cSp0UzUtSeY~HvVx2wHX-lO5veUB~aAgYQ__"
+    }
+  ],
+  [
+    { "id": 1, "image": "https://ranialankar.com/wp-content/uploads/2020/07/18K709.5.jpg", "name": "A111", "cost": "2500$", "type": "chain", "all": "all", "gender": "female" },
+    { "id": 2, "image": "https://i.etsystatic.com/25844886/r/il/17f65d/5471411799/il_570xN.5471411799_89es.jpg", "name": "B222", "cost": "3000$", "type": "chain", "all": "all", "gender": "male" },
+    { "id": 3, "image": "https://img.ltwebstatic.com/images3_spmp/2023/08/17/3f/169224733875c3a44934199ce12ea14b61d788cf40_thumbnail_720x.webp", "name": "C333", "cost": "2800$", "type": "chain", "all": "all", "gender": "female" },
+    { "id": 4, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ27JvepvUX33Zvys2MRfRg48mdLMRfC3BqGQ&s", "name": "D444", "cost": "3200$", "type": "chain", "all": "all", "gender": "male" },
+    { "id": 5, "image": "https://www.lookethnic.com/cdn/shop/products/LECOHR0230.jpeg?v=1549134434", "name": "E555", "cost": "2700$", "type": "chain", "all": "all", "gender": "female" },
+    { "id": 6, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlt8S3SpqNq4ZqKrEfN0Ae0Xy-OLfy39JKIg&s", "name": "F666", "cost": "3500$", "type": "chain", "all": "all", "gender": "male" },
+    { "id": 7, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBL2Qtw41AMmRmxvC1hqlNaXwDW2fKn7racg&s", "name": "G777", "cost": "2600$", "type": "chain", "all": "all", "gender": "female" },
+    { "id": 8, "image": "https://i5.walmartimages.com/asr/0648c8b2-88ca-4482-b653-19cfc2ae31cc.3a5db279fef40382d9c49a8114e9ef1a.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF", "name": "H888", "cost": "3300$", "type": "chain", "all": "all", "gender": "male" },
+    { "id": 9, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0q90_JgTgk5pkX2IZVhZN77J8YecbfZz93A&s", "name": "I999", "cost": "3400$", "type": "chain", "all": "all", "gender": "female" },
+    { "id": 10, "image": "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/1401/1716909053_540e7284ffb2e657ee03.png", "name": "J1010", "cost": "2900$", "type": "chain", "all": "all", "gender": "male" },
+
+    { "id": 11, "image": "https://n.nordstrommedia.com/id/sr3/55133c71-7f1c-4891-9ed2-3515de6fe055.jpeg?h=365&w=240&dpr=2", "name": "K111", "cost": "1500$", "type": "necklace", "all": "all", "gender": "female" },
+    { "id": 12, "image": "https://n.nordstrommedia.com/id/sr3/dc8ed89b-5c9f-41ff-b7ee-a06e7030d3e9.jpeg?h=365&w=240&dpr=2", "name": "L222", "cost": "2000$", "type": "necklace", "all": "all", "gender": "male" },
+    { "id": 13, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShNfsf-7n5PjkWUa3RMZ6ixVs7QUfzWkNS-E4CQVYlJfdtAtDs3rmKUXhW6-0RQRDFw5o&usqp=CAU", "name": "M333", "cost": "1800$", "type": "necklace", "all": "all", "gender": "female" },
+    { "id": 14, "image": "https://eu-images.contentstack.com/v3/assets/blt7dcd2cfbc90d45de/blte380df9e8e348ece/625005712cd2081bce5d5cf6/9-1_c38818c6b925e219abf85dce82b177d7.jpg?format=pjpg&auto=webp&quality=75%2C90&width=1200", "name": "N444", "cost": "2200$", "type": "necklace", "all": "all", "gender": "male" },
+    { "id": 15, "image": "https://product-images.therealreal.com/CHA1037727_1_enlarged.jpg", "name": "O555", "cost": "1700$", "type": "necklace", "all": "all", "gender": "female" },
+    { "id": 16, "image": "https://i.ebayimg.com/images/g/YPYAAOSwduNZ1RFy/s-l1200.jpg", "name": "P666", "cost": "2500$", "type": "necklace", "all": "all", "gender": "male" },
+    { "id": 17, "image": "https://i5.walmartimages.com/asr/997d3fef-2761-4451-a475-0e829415125c_1.489e0f883ba90e8c326cc6bd849d5905.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF", "name": "Q777", "cost": "1600$", "type": "necklace", "all": "all", "gender": "female" },
+    { "id": 18, "image": "https://m.media-amazon.com/images/I/41OuDWdhxsL._AC_QL92_SH45_UL240_SR240,220_.jpg", "name": "R888", "cost": "2300$", "type": "necklace", "all": "all", "gender": "male" },
+    { "id": 19, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu_hj3a8n1OCFtswv6m7IKqcvNr2DXiusbTg&s", "name": "S999", "cost": "2400$", "type": "necklace", "all": "all", "gender": "female" },
+    { "id": 20, "image": "https://cdn11.bigcommerce.com/s-f813d/images/stencil/1280x1280/products/29946/157620/fdj-3d-pendant-animal-bear-yellow-gold__65902.1618492980.jpg?c=2", "name": "T1010", "cost": "1900$", "type": "necklace", "all": "all", "gender": "male" },
+
+    { "id": 21, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXKHkQyKCncZC7_Xe8N8ENkrANq_b3DFMr7w&s", "name": "U111", "cost": "1000$", "type": "earring", "all": "all", "gender": "female" },
+    { "id": 22, "image": "https://kinclimg5.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIJS0753H18_YAA22XXXXXXXXXXXX_ABCD00-PICS-00004-1024-54580.png", "name": "V222", "cost": "1200$", "type": "earring", "all": "all", "gender": "male" },
+    { "id": 23, "image": "https://ae-pic-a1.aliexpress-media.com/kf/He1993ef3c8984b8a91272b3e18a2bcd3d/Dainty-Female-Crystal-Heart-Earring-Black-Rose-Gold-Silver-Color-Stud-Earrings-Simple-White-Zircon-Wedding.jpg_640x640Q90.jpg_.webp", "name": "W333", "cost": "1300$", "type": "earring", "all": "all", "gender": "female" },
+    { "id": 24, "image": "https://stienhardt.com/cdn/shop/files/1_4_60958204-dad3-4bfd-8ef6-a2ec8cdbeb0b.jpg?v=1726051266&width=1080", "name": "X444", "cost": "1400$", "type": "earring", "all": "all", "gender": "male" },
+    { "id": 25, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHPzHRncefGlY0WbPCGrPaVPSFZpCPjGLsw&s", "name": "Y555", "cost": "1150$", "type": "earring", "all": "all", "gender": "female" },
+    { "id": 26, "image": "https://m.media-amazon.com/images/I/71SXf66F2SL._AC_UY1000_.jpg", "name": "Z666", "cost": "1250$", "type": "earring", "all": "all", "gender": "male" },
+    { "id": 27, "image": "https://gemosparkle.com/wp-content/uploads/2019/08/GOS_ER_432_C.jpg", "name": "A777", "cost": "1100$", "type": "earring", "all": "all", "gender": "female" },
+    { "id": 28, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIGQBfp3vmrQGG4gOiZdcWWtJeTUPERkpjtA&s", "name": "B888", "cost": "1350$", "type": "earring", "all": "all", "gender": "male" },
+    { "id": 29, "image": "https://priyaasi.com/cdn/shop/products/EAR-PR-50536_1.jpg?v=1602694683", "name": "C999", "cost": "1450$", "type": "earring", "all": "all", "gender": "female" },
+    { "id": 30, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEXVUM7u9a4Z8CJzuQbzlxvxG9V2YtY2Jjg&s", "name": "D1010", "cost": "1050$", "type": "earring", "all": "all", "gender": "male" },
+
+    { "id": 31, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzcpyxVhpG69UmPFb9kiSnHf0yIc46kwFwxA&s", "name": "E111", "cost": "500$", "type": "ring", "all": "all", "gender": "female" },
+    { "id": 32, "image": "https://www.anitolia.com/wp-content/uploads/2021/03/silver-classic-evil-eye-oval-turquoise-gemstone-men-ring-10903-22-B.jpg", "name": "F222", "cost": "600$", "type": "ring", "all": "all", "gender": "male" },
+    { "id": 33, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpqGbflvNJYpMcvXm9egm3ekziGwUhKnAM5pivZxxzACy4xHx7vLA7hnoA3qFxI_QE4g&usqp=CAU", "name": "G333", "cost": "700$", "type": "ring", "all": "all", "gender": "female" },
+    { "id": 34, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhEJcBgRO2H8wUEOY1lj13HdoDN77PXWuSPGnn3froW4BX6r3K9BYgAyiYKgiQf9H_e4w&usqp=CAU", "name": "H444", "cost": "800$", "type": "ring", "all": "all", "gender": "male" },
+    { "id": 35, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7U9pZLxB8lF-dV-WVm8Z4IwYtpm8AzMfTZA&s", "name": "I555", "cost": "750$", "type": "ring", "all": "all", "gender": "female" },
+    { "id": 36, "image": "https://kinclimg7.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BISS0103R657_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-26810.png", "name": "J666", "cost": "900$", "type": "ring", "all": "all", "gender": "male" },
+    { "id": 37, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ta2hDchA7_KoaczaI1JkeV0aFqy-hJYrjw&s", "name": "K777", "cost": "650$", "type": "ring", "all": "all", "gender": "female" },
+    { "id": 38, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeF6OZ4pP-0VJWHbCouEfLXNEYV4wgqLcBnGQpgWxGvlaa1uLFvAaJs0cyCIcqrrcEIzw&usqp=CAU", "name": "L888", "cost": "850$", "type": "ring", "all": "all", "gender": "male" },
+    { "id": 39, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ4D37IsM5OQ6bLeINpydZpg_ZYhmqCHrvBw&s", "name": "M999", "cost": "950$", "type": "ring", "all": "all", "gender": "female" },
+    { "id": 40, "image": "https://sensationpk.com/cdn/shop/products/blue-turkish-mens-ring-339402.jpg?v=1660242197&width=1080", "name": "N1010", "cost": "550$", "type": "ring", "all": "all", "gender": "male" },
+
+    { "id": 41, "image": "https://www.shutterstock.com/image-photo/impeccable-perfect-jewelry-woman-wear-600nw-1782624128.jpg", "name": "O111", "cost": "400$", "type": "brooch", "all": "all", "gender": "female" },
+    { "id": 42, "image": "https://m.media-amazon.com/images/I/81A2GfEZg8L._AC_UY1000_.jpg", "name": "P222", "cost": "450$", "type": "brooch", "all": "all", "gender": "male" },
+    { "id": 43, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT3fFw1sS6Fg18cskx8MYmdm-jmUghum9A0Q&s", "name": "Q333", "cost": "470$", "type": "brooch", "all": "all", "gender": "female" },
+    { "id": 44, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStnIt3ihl8I4-jUx4joRFdG12llObYrCURq6NzuEet35JuUUUvfJDSnzF9sho_-bmwE_c&usqp=CAU", "name": "R444", "cost": "480$", "type": "brooch", "all": "all", "gender": "male" },
+    { "id": 45, "image": "https://m.media-amazon.com/images/I/811Fq15JBIL._AC_UY300_.jpg", "name": "S555", "cost": "460$", "type": "brooch", "all": "all", "gender": "female" },
+    { "id": 46, "image": "https://img.ltwebstatic.com/images3_spmp/2023/07/16/16894781490f40e908894bdab79676cdede5f38baa_thumbnail_720x.jpg", "name": "T666", "cost": "490$", "type": "brooch", "all": "all", "gender": "male" },
+    { "id": 47, "image": "https://m.media-amazon.com/images/I/61C7EkjDDZL._AC_UY1000_.jpg", "name": "U777", "cost": "440$", "type": "brooch", "all": "all", "gender": "female" },
+    { "id": 48, "image": "https://i.etsystatic.com/21486105/r/il/068ed0/4274991387/il_570xN.4274991387_e2wy.jpg", "name": "V888", "cost": "430$", "type": "brooch", "all": "all", "gender": "male" },
+    { "id": 49, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5We5WpBb7EzBglHsN1s_T6PrQ6RII93aNg&s", "name": "W999", "cost": "420$", "type": "brooch", "all": "all", "gender": "female" },
+    { "id": 50, "image": "https://m.media-amazon.com/images/I/61ClX-QVerL._AC_UY1000_.jpg", "name": "X1010", "cost": "410$", "type": "brooch", "all": "all", "gender": "male" },
+    
+    { "id": 51, "image": "https://m.media-amazon.com/images/I/81MctxzuWWL._AC_UY1000_.jpg", "name": "J592", "cost": "100$", "type": "pendants", "all": "all", "gender": "female" },
+    { "id": 52, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrzOOOAVtUKIjzE1qQ_0k5hcQJ1zff4-ifEg&s", "name": "J593", "cost": "150$", "type": "pendants", "all": "all", "gender": "male" },
+    { "id": 53, "image": "https://kinclimg7.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIIP0359P04_YAA18DIG6XXXXXXXX_ABCD00-PICS-00004-1024-35451.png", "name": "J594", "cost": "200$", "type": "pendants", "all": "all", "gender": "female" },
+    { "id": 54, "image": "https://i.pinimg.com/736x/38/f7/2d/38f72d6f109866b150e1fb7b64db2bb2.jpg", "name": "J595", "cost": "250$", "type": "pendants", "all": "all", "gender": "male" },
+    { "id": 55, "image": "https://leserey.com/cdn/shop/products/wildflower-pendant-necklace-515670_1445x.jpg?v=1669757680", "name": "J596", "cost": "300$", "type": "pendants", "all": "all", "gender": "female" },
+    { "id": 56, "image": "https://symbolartsshop.com/cdn/shop/products/aog-black-male-pendant_1dd903b6-2a91-4e82-af8d-410954d107c9_1000x1000.png?v=1592510396", "name": "J597", "cost": "350$", "type": "pendants", "all": "all", "gender": "male" },
+    { "id": 57, "image": "https://cdn.shopify.com/s/files/1/0527/7669/8040/files/Greenish_Blue_Diamond_Pendant_480x480.webp?v=1703162706", "name": "J598", "cost": "400$", "type": "pendants", "all": "all", "gender": "female" },
+    { "id": 58, "image": "https://www.proclamationjewelry.com/cdn/shop/products/mens_silver_pendant_wolf_proclamation_jewelry.jpg?v=1723375468&width=850", "name": "J599", "cost": "450$", "type": "pendants", "all": "all", "gender": "male" },
+    { "id": 59, "image": "https://yellowchimes.com/cdn/shop/products/61J7P0A4pLL.jpg?v=1688934212", "name": "J600", "cost": "500$", "type": "pendants", "all": "all", "gender": "female" },
+    { "id": 60, "image": "https://cdn.shopify.com/s/files/1/2417/4137/files/St.MichaelPendantGold_487f7e61-c729-486d-8e0a-7d739448f9f1.jpg?v=1728579923&width=350&height=420&crop=center", "name": "J601", "cost": "550$", "type": "pendants", "all": "all", "gender": "male" },    
+    
+    { "id": 61, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlS4ZB4dLyNuIhWfMHG4ItxIQK2seLAq1eWA&s", "name": "B001", "cost": "400$", "type": "bracelets", "all": "all", "gender": "female" },
+    { "id": 62, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5U5aMKSOFSAjqcyPS6rvIAm5FkBDaFDjNSQ&s", "name": "B002", "cost": "450$", "type": "bracelets", "all": "all", "gender": "male" },
+    { "id": 63, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNE0LndAXsrwKXUf2R2Jaid6XMyREZxdnnGg&s", "name": "B003", "cost": "470$", "type": "bracelets", "all": "all", "gender": "female" },
+    { "id": 64, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDNqnLlgWAJTLzQHxutBeNoT76bGhUEY4QeQ&s", "name": "B004", "cost": "480$", "type": "bracelets", "all": "all", "gender": "male" },
+    { "id": 65, "image": "https://i.pinimg.com/736x/51/fe/d9/51fed9bd52d1bc34a0b0e1b440da0413.jpg", "name": "B005", "cost": "460$", "type": "bracelets", "all": "all", "gender": "female" },
+    { "id": 66, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSryCZeWzGETawCWJd7Gc7tprYi_yFzPMl9cg&s", "name": "B006", "cost": "490$", "type": "bracelets", "all": "all", "gender": "male" },
+    { "id": 67, "image": "https://images.meesho.com/images/products/165458971/62rkm_512.webp", "name": "B007", "cost": "440$", "type": "bracelets", "all": "all", "gender": "female" },
+    { "id": 68, "image": "https://assets.talisa.com/media/catalog/product/cache/29d7d34990d2aec07d9b88f7ee7d79c4/l/a/lava_stone_hamsa_bracelet_for_him_3_.jpg", "name": "B008", "cost": "430$", "type": "bracelets", "all": "all", "gender": "male" },
+    { "id": 69, "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/26/1400662/1.jpg?9201", "name": "B009", "cost": "420$", "type": "bracelets", "all": "all", "gender": "female" },
+    { "id": 70, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWr07KbKaSRop7yQLEBSd3-BdwHzVfn5pAQ&s", "name": "B010", "cost": "410$", "type": "bracelets", "all": "all", "gender": "male" }
+  ]
+]
+
